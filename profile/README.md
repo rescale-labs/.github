@@ -1,4 +1,4 @@
-![Rescale Labs logo](https://github.com/bernsmk/rescalelabs_intro/blob/main/images/rescale-labs-logo.png)
+![Rescale Labs logo](https://github.com/rescale-labs/.github/blob/main/images/rescale-labs-logo.png)
 
 
 Welcome to Rescale-Labs!
@@ -21,5 +21,5 @@ If you're new to Rescale, here are a few additional resources to help you get st
 
 ## License
 
-All code and tools shared at Rescale-Labs are licensed under the [MIT License](https://github.com/bernsmk/rescalelabs_intro/blob/main/profile/LICENSE).
+All code and tools shared at Rescale-Labs are licensed under the [MIT License](https://github.com/rescale-labs/.github/blob/main/profile/LICENSE).
 
