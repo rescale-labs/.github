@@ -1,4 +1,4 @@
-![Rescale Labs logo](https://github.com/rescale-labs/.github/blob/main/images/rescale-labs-logo.png)
+![Rescale Labs logo](https://github.com/rescale-labs/.github/blob/main/images/rescale-labs-logo-large.png)
 
 
 Welcome to Rescale-Labs!
